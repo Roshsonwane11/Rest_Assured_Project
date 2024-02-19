@@ -1,5 +1,5 @@
 package GetRequest;
-
+//Get data 
 import static io.restassured.RestAssured.given;
 
 import org.testng.annotations.Test;
